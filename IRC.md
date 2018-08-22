@@ -82,7 +82,15 @@ Hexchat and Xchat both are open-source cross platform IRC Clients.They are a ful
 
 A BNC (short for Bounced Network Connection) is a piece of software that is used to relay traffic and connections in computer networks, much like a proxy. Using a BNC allows a user to hide the original source of the user's connection, providing privacy as well as the ability to route traffic through a specific location.
 
-Some decent Bouncer Clients are IRCCloud and Riot.
+Basically,when we use an IRC client like Hexchat or a web-IRC client like webchat,we can only see the conversation of the time span in which we are online.But,with a bouncer service,we can see the whole conversation no matter we were online at that time or not. 
+
+Some decent Bouncer Clients are IRCCloud,Riot,ZNC etc.
+
+**IRCCloud**: It is the best bouncer that you can find for IRC.Though,it becomes paid after 7 days but yes,it holds the true value for money and is very popular among those who spend a lot of time on IRC for their work/job.
+
+**Riot**: It is a matrix-IRC client that is also a decent option with the only con that it is somewhat slow.It is free to use and open source.You can download it [here](https://about.riot.im/).
+
+**ZNC** There is a really great article by DigitalOcean regarding the steps to setup a ZNC server which you can find [here](https://www.digitalocean.com/community/tutorials/how-to-install-znc-an-irc-bouncer-on-an-ubuntu-vps).
 
 ## Some Useful Commands
 
