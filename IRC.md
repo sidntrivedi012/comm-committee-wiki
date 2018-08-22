@@ -26,27 +26,27 @@ One of the easiest ways to connect to the channel is through a webclient.
 2. Choose a nickname of your choice.It is a kind of short username you choose.
 3. In the channels box,type #jiit-lug.If you want to join more than one channel,separate them with commas(,).Like #jiit-lug,#ubuntu
 4. Tick the captcha and click on connect.
-[[/images/ste1.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste1.png)
 5. You will get connected to the channel if it allows non-registered users to join it.Else you will not.
 6. Now,to register your nickname to yourself,click on the 'Status' tab in the top left and type in the text box at the bottom of the window- `/msg NickServ REGISTER yourpassword youremail@domain.com` and hit enter key.
-[[/images/ste2.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste2.png)
 7. A verification email will be sent to you consisting of a command which you will have to copy on the same text box.
-[[/images/ste3.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste3.png)
 8. Having copied and sent the command,your nick will be verified.
-[[/images/ste4.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste4.png)
 9. Now,in order to get identified,you have to enter the command, `/msg NickServ identify yourpassword`.
-[[/images/ste5.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste5.png)
 10. That's all,you have not become a verified user of IRC.Next time when you login,After filling the Nickname and Channels field,tick mark the Authentication to Services box and enter the same username and password and then start using the IRC.You have not to enter any command now.
-[[/images/ste6.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste6.png)
 11. Now,you are all set to interact on our channel. :tada: :tada:
-[[/images/ste7.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste7.png)
 
 #### Few more:
 
 *	If you want to join any other channel than you mentioned in the login window,type `/join #(new_channelname_)` in the Status tab hit enter.You'll get into the specified channel.
-[[/images/ste8.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste8.png)
 *	If you want to change your nickname, type `/nick (new_nickname)`,hit enter.Your nick will get changed.
-[[/images/ste9.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/ste9.png)
 
 ## Hexchat/Xchat
 
@@ -57,26 +57,26 @@ Hexchat and Xchat both are open-source cross platform IRC Clients.They are a ful
 #### Setup Instructions:
 
 1. Open Hexchat and type your nickname and username.And from the networks,choose the Freenode Network.
-[[/images/st1.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/st1.png)
 
 2. In the menu that pops up,type #jiit-lug in _join this channel_ bullet.
-[[/images/st2.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/st2.png)
 
 3. Now,get your nick registered(this will be done only the first time you start using IRC) by typing the command `/msg NickServ REGISTER yourpassword youremail@domain.com`
-[[/images/st3.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/st3.png)
 
 4. Now,you'll receive an email containing a verification command,copy and paste it in Hexchat.
-[[/images/st4.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/st4.png)
 
 5. Now,your nick has been verified.To get yourself identified, type the command `/msg NickServ identify yourpassword`.And,your nick will be identified. :tada:
 
 #### How to join a channel?
 
 * To join a channel,type `/join #channelname` and you will be entered into that channel.
-[[/images/st5.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/st5.png)
 
 * To change your nick,type `/nick newnickname` and your nickname will get changed if the new nickname has not already been registered.
-[[/images/st6.png |ALT TEXT]]
+![](https://github.com/sidntrivedi012/comm-committee-wiki/blob/master/images/st6.png)
 
 ## Bouncers like IRCCloud,Riot
 
@@ -90,7 +90,9 @@ Some decent Bouncer Clients are IRCCloud,Riot,ZNC etc.
 
 **Riot**: It is a matrix-IRC client that is also a decent option with the only con that it is somewhat slow.It is free to use and open source.You can download it [here](https://about.riot.im/).
 
-**ZNC** There is a really great article by DigitalOcean regarding the steps to setup a ZNC server which you can find [here](https://www.digitalocean.com/community/tutorials/how-to-install-znc-an-irc-bouncer-on-an-ubuntu-vps).
+**ZNC**: There is a really great article by DigitalOcean regarding the steps to setup a ZNC server which you can find [here](https://www.digitalocean.com/community/tutorials/how-to-install-znc-an-irc-bouncer-on-an-ubuntu-vps).
+
+Some decent Bouncer Clients are IRCCloud and Riot.
 
 ## Some Useful Commands
 
